@@ -18,10 +18,12 @@
 #menu {
     background-color: #b3b3b3;
     text-align: center;
+    align-content: center;
 }
 
 #contact {
     background-color: #b3b3b3;
+    margin: 0 auto;
 }
 
 #title {
@@ -47,6 +49,13 @@
     margin-left: auto;
     margin-right: auto;
     display: block;
+}
+
+#menu table {
+    margin: 0 auto;
+}
+th, td {
+    padding: 10px;
 }
 
 body {
