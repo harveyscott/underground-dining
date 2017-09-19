@@ -59,7 +59,7 @@ th, td {
 }
 @font-face {
     font-family: 'Lucida Calligraphy';
-    src: 'res/Lucida Calligraphy Italic.ttf';
+    src: url('res/Lucida Calligraphy Italic.ttf');
 }
 
 body {
