@@ -57,6 +57,10 @@
 th, td {
     padding: 10px;
 }
+@font-face {
+    font-family: 'Lucida Calligraphy';
+    src: 'res/Lucida Calligraphy Italic.ttf';
+}
 
 body {
     margin: 0;
