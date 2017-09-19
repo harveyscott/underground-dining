@@ -45,6 +45,24 @@
     width: 180px;
 }
 
+#content-box {
+    position: fixed;
+    margin-left: 0;
+    top: 0;
+    height: 50px;
+    width: 150px;
+    background-color: black;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.flex-item {
+    background-color: red;
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+}
+
 #contact iframe {
     margin-left: auto;
     margin-right: auto;
@@ -54,9 +72,12 @@
 #menu table {
     margin: 0 auto;
 }
-th, td {
-    padding: 10px;
+
+th,
+td {
+    padding: 7px;
 }
+
 @font-face {
     font-family: 'Lucida Calligraphy';
     src: url('res/Lucida Calligraphy Italic.ttf');
