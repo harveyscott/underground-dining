@@ -73,6 +73,14 @@
     margin: 0 auto;
 }
 
+#phonenumber {
+    font-size: 20px;
+}
+
+#email {
+    font-size: 20px;
+}
+
 th,
 td {
     padding: 5px;
