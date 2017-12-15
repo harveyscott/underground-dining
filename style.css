@@ -3,7 +3,7 @@
     height: 720px;
 }
 
-#banners {
+#banner {
     background-color: #b3b3b3;
     height: 310px;
 }
@@ -34,7 +34,7 @@
     text-align: center;
 }
 
-#banners img {
+#banner img {
     margin-left: auto;
     margin-right: auto;
     display: block;
